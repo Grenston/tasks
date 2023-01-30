@@ -1,3 +1,3 @@
 # tasks
 ## task 1
-** task 1 details **
+*task 1 details*
